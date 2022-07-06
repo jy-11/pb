@@ -1,6 +1,6 @@
 # This is a basic workflow to help you get started with Actions
 
-name: 部署vue默认页面到github pages
+name: hexo博客搭建
 
 # Controls when the workflow will run
 on:
