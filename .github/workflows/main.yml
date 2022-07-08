@@ -39,5 +39,5 @@ jobs:
       - name: 部署到PAGES
         uses: JamesIves/github-pages-deploy-action@v4
         with:
-          branch: jy-111
+          branch: jy-11
           folder: public/
